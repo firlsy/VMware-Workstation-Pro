@@ -10,6 +10,8 @@
 * [VMwareWorkstation 9](#vmwareworkstation-9)
 
 # VMwareWorkstation 16
+*16.2.4
+  * https://download3.vmware.com/software/WKST-1624-WIN/VMware-workstation-full-16.2.4-20089737.exe
 * 16.2.3
   * https://download3.vmware.com/software/WKST-1623-WIN-New/VMware-workstation-full-16.2.3-19376536.exe
   * https://github.com/201853910/VMwareWorkstation/releases/download/16.0/VMware-workstation-full-16.2.3-19376536.exe
